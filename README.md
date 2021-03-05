@@ -1,10 +1,10 @@
 # useful_scripts
-A bunch of useful scripts for my day-to-day analyses
+A bunch of useful scripts for my day-to-day analyses. To be continually updated
 
 # List of scripts
 ***
 
-diyabc_tidy.R
+### **diyabc_tidy.R**
 
 Source script for a function that goes through the output file of vcf2diyabc and removes any loci that have 100% missing data for any population (as diyabc-rf cannot handle these). 
 
